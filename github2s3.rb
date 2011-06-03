@@ -14,11 +14,12 @@
 
 # AWS S3 credentials
 
-AWS_ACCESS_KEY_ID = "1QX4YASQYJA3051RZ702"
-AWS_SECRET_ACCESS_KEY = "WzVjVO/wjpvRZ2UammV4kDrDh7VRjhIg//ESuT79"
+
+AWS_ACCESS_KEY_ID = "ACCESS_KEY"
+AWS_SECRET_ACCESS_KEY = "SECRET_KEY"
 
 # S3 bucket name to put dumps
-S3_BUCKET = "git-ak-bak"
+S3_BUCKET = "github-backup"
 
 USE_SSL = true
 
